@@ -6,3 +6,5 @@ langchain-text-splitters
 langgraph 
 pypdf
 langchain
+rank-bm25
+sentence-transformers
